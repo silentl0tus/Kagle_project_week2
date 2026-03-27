@@ -8,4 +8,5 @@ xgboost
 optuna
 matplotlib
 seaborn
+lightgbm
 scipy
